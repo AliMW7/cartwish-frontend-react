@@ -2,7 +2,7 @@ import React, { useEffect, useState, useContext } from "react";
 
 import UserContext from "../../context/UserContext";
 import Table from "../Common/Table";
-import "./CartPage.css";
+import "./Cartpage.css";
 import config from "../../config.json";
 import remove from "../../assets/remove.png";
 import QuantityInput from "../SingleProduct/QuantityInput";
